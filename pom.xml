@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>bookzy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>bookzy</name>
 	<description>DevOps Project for Bookzy</description>
 	<properties>
