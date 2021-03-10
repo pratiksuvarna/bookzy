@@ -15,7 +15,7 @@
 	<name>bookzy</name>
 	<description>DevOps Project for Bookzy</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
