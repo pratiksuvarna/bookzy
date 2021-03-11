@@ -15,6 +15,13 @@
         <h1>
             <% out.println("Welcome to Bookzy Bookstore");%>
         </h1>
+            List of all books 
+            Book 1
+            Book 2
+            Book 3
+            Book 4
+            Book 5
+
         <footer> Bookzy Bookstore </footer>
     </body>    
 </html>
